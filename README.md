@@ -11,7 +11,7 @@
   </a>
   </a>
     <a href="https://leetcode.com/adityakapse0201/">
-    <img src="https://img.shields.io/badge/LeetCode-Yellow?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
 
