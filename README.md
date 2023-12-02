@@ -11,7 +11,6 @@
   ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aditya9764&theme=dark&background=000000)](https://git.io/streak-stats)
   
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Aditya9764/Aditya9764** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
